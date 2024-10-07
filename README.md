@@ -1,4 +1,7 @@
 # HanYoonSoo 
+
+<img src="https://dying-clare-jeonghyeon-c5627439.koyeb.app/api/v1/svg/languages?githubId=HanYoonSoo&theme=DARK" alt="https://dying-clare-jeonghyeon-c5627439.koyeb.app/images/loading.gif">
+
 ![HanYoonSoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=HanYoonSoo&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dktkaemfl12)](https://solved.ac/dktkaemfl12/)
 
@@ -46,7 +49,6 @@
 ![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
 
 
-<img src="https://dying-clare-jeonghyeon-c5627439.koyeb.app/api/v1/svg/languages?githubId=HanYoonSoo&theme=DARK" alt="https://dying-clare-jeonghyeon-c5627439.koyeb.app/images/loading.gif">
 
   
 
