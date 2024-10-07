@@ -46,7 +46,6 @@
 ![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
 
 
-<img src="https://dying-clare-jeonghyeon-c5627439.koyeb.app/api/v1/svg/languages?githubId={YOUR_GITHUB_ID}&theme=DARK" alt="https://dying-clare-jeonghyeon-c5627439.koyeb.app/images/loading.gif">
 
   
 
