@@ -1,6 +1,6 @@
 # HanYoonSoo 
 
-<img src="https://dying-clare-jeonghyeon-c5627439.koyeb.app/api/v1/svg/languages?githubId=HanYoonSoo&theme=DARK" alt="https://dying-clare-jeonghyeon-c5627439.koyeb.app/images/loading.gif">
+<img src="https://dying-clare-jeonghyeon-c5627439.koyeb.app/api/v1/svg/languages?nickname=HanYoonSoo&theme=DARK" alt="https://dying-clare-jeonghyeon-c5627439.koyeb.app/images/loading.gif">
 
 ![HanYoonSoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=HanYoonSoo&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dktkaemfl12)](https://solved.ac/dktkaemfl12/)
