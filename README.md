@@ -18,7 +18,7 @@
 ![Ceph](https://img.shields.io/badge/Ceph-EF5C55.svg?&style=for-the-badge&logo=Ceph&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31.svg?&style=for-the-badge&logo=Amazon%20S3&logoColor=white)**(Studying)**<br>
 
-### Software Framework
+### Framework
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=Spring%20Boot&logoColor=white)
 
