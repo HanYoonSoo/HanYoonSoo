@@ -44,8 +44,6 @@
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20.svg?&style=for-the-badge&logo=Apache%20Kafka&logoColor=white)
 ![Amazon ECS](https://img.shields.io/badge/Amazon%20ECS-FF9900.svg?&style=for-the-badge&logo=Amazon%20ECS&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000.svg?&style=for-the-badge&logo=Ansible&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800.svg?&style=for-the-badge&logo=Grafana&logoColor=white)
 
 
 ### IDE
