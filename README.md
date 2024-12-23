@@ -8,6 +8,8 @@
 
 ![snake gif](https://github.com/HanYoonSoo/HanYoonSoo/blob/output/github-contribution-grid-snake.svg)
 
+현재 진행중인 프로젝트
+<https://github.com/Study-With-Me-JJ/swm-backend/tree/dev>
 
 # 💪Skills
 ### Languages
