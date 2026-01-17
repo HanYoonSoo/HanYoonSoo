@@ -44,4 +44,9 @@
 ### IDE
 ![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
 
+# 📜 Certifications
+- **정보처리기사** (Engineer Information Processing)
+- **CKA (Certified Kubernetes Administrator)** – Linux Foundation
+
+
 
